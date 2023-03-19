@@ -1,4 +1,20 @@
 
+
+
+<div align="center">
+  
+
+  
+
+  <h1 align="center">Movix</h1>
+
+  This is a movie app.
+
+  <a href="https://movix-one.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+<br/>
+
 ![Movix-Logo](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-logo.svg)
 
 
