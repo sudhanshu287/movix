@@ -6,7 +6,6 @@
 
   ![Movix-Logo](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-logo.svg)
    <hr/>
-  <h1 align="center">Movix</h1>
 
   This is a movie app.
 
@@ -18,9 +17,7 @@
 
 
 
-# Movix
 
-This is a movie app.
 
 
 ## Screenshots of Project
