@@ -4,8 +4,8 @@
 <div align="center">
   
 
-  
-
+  ![Movix-Logo](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-logo.svg)
+   <hr/>
   <h1 align="center">Movix</h1>
 
   This is a movie app.
@@ -15,7 +15,7 @@
 </div>
 <br/>
 
-![Movix-Logo](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-logo.svg)
+
 
 
 # Movix
