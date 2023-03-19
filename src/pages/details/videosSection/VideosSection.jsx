@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import "./VideosSection.scss";
 
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
-import Playbtn  from "../playbtn";
+import Playbtn  from "../Playbtn";
 import VideoPopup from "../../../components/videoPopup/VideoPopup";
 import Img from "../../../components/lazyLoadImage/Img";
 
