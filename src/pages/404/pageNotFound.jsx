@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./PageNotFound.scss";
+import "./style.scss";
 
 import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
 
