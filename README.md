@@ -1,4 +1,7 @@
 
+![Movix-Logo](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-logo.svg)
+
+
 # Movix
 
 This is a movie app.
