@@ -3,31 +3,35 @@
 
 <div align="center">
   
-
-  ![Movix-Logo](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-logo.svg)
-   <hr/>
-
-  This is a movie app.
-
+<h1>Movix</h1>
   <a href="https://movix-one.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 <br/>
 
-
-
-
-
+- Movix is entertainment plateform.
+- Here you can search about a movie or a TV show.
+- You can watch Movie trailer and other detail like rating, genres,cast ,director,actor list and many more.
+- In the explore section you can search **Movie** or **TV Shows** with filter them with generes and sort them by Popularity, Rating, Release Date.
 
 
 ## Screenshots of Project
 
-![Movix Preview Image](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-preview.png)
+![Movix Preview Image](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-preview-1.png)
+
+![Movix Preview Image](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-preview-2.png)
+
+![Movix Preview Image](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-preview-3.png)
+
+![Movix Preview Image](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-preview-4.png)
+
+![Movix Preview Image](https://github.com/sudhanshu287/movix/blob/main/src/assets/movix-preview-5.png)
+
 
 
 ## Live Project
 
-[Click Here](https://movix-one.vercel.app/)
+[Click Here](https://movix-one.vercel.app)
 
 
 ## Created By :
@@ -45,7 +49,7 @@ Javascript, HTML, CSS, React, Java ,C++
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sudhanshu-portfolio-sdn.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sudhanshupatel.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu123)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
